@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41310" started-at="2020-01-30T10:35:56Z" finished-at="2020-01-30T10:36:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41310" started-at="2020-01-30T10:35:56Z" finished-at="2020-01-30T10:36:37Z">
+      <class name="com.pc.qa.testcases.PriceComparisionTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="setup" is-config="true" duration-ms="4583" started-at="2020-01-30T16:05:56Z" finished-at="2020-01-30T16:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AmazonHomePageTest()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="AmazonHomePageTest" duration-ms="9332" started-at="2020-01-30T16:06:00Z" finished-at="2020-01-30T16:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonHomePageTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="closeBrowser" is-config="true" duration-ms="2199" started-at="2020-01-30T16:06:10Z" finished-at="2020-01-30T16:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="setup" is-config="true" duration-ms="3508" started-at="2020-01-30T16:06:12Z" finished-at="2020-01-30T16:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="FlipkartHomePageTest()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="FlipkartHomePageTest" duration-ms="15560" started-at="2020-01-30T16:06:15Z" finished-at="2020-01-30T16:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlipkartHomePageTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="closeBrowser" is-config="true" duration-ms="1435" started-at="2020-01-30T16:06:31Z" finished-at="2020-01-30T16:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="setup" is-config="true" duration-ms="3499" started-at="2020-01-30T16:06:32Z" finished-at="2020-01-30T16:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="priceComparision()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="priceComparision" duration-ms="1" started-at="2020-01-30T16:06:36Z" finished-at="2020-01-30T16:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceComparision -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pc.qa.testcases.PriceComparisionTest@d2cc05a]" name="closeBrowser" is-config="true" duration-ms="1179" started-at="2020-01-30T16:06:36Z" finished-at="2020-01-30T16:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pc.qa.testcases.PriceComparisionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
